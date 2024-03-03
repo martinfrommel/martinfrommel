@@ -10,6 +10,7 @@ Hello! I'm Martin, a Web Artisan, Amateur Rock Fondler, and Music Tech Teacher. 
 - **Innovating with Technology:** I'm always on the lookout for the latest technologies and techniques that can enhance the web development landscape.
 - **Teaching Music Technology:** Sharing my knowledge and passion for music technology is something I find incredibly rewarding.
 - **Exploring the Outdoors:** Whether it's climbing rocks or simply enjoying the beauty of nature, I love spending my time outdoors.
+- **Tinkering with Electronics:** There's something incredibly satisfying about diving into electronics and creating or improving devices with my own hands.
 
 ### My Toolbox 🧰
 
