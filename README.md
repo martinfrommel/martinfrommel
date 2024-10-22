@@ -1,40 +1,48 @@
 # Welcome to Martin Frommel's GitHub Profile! 👋
 
-## Who am I? 🧑‍🎨🧗‍♂️👨‍🏫
+## Who am I? 🧑‍💻🛠️🌍
 
-Hello! I'm Martin, a Web Artisan, Amateur Rock Fondler, and Music Tech Teacher. I'm deeply passionate about crafting web applications that not only rock but also resonate with the rhythm of innovation. I thrive on summiting the peaks of open-source, always exploring new territories and pushing (mostly my own 😹) boundaries.
+Hello! I'm Martin, a passionate Full-Stack Web and Native Developer with a knack for scaling digital mountains and real ones too. I'm deeply motivated by making information and knowledge more accessible to people and love the chance to tinker with and improve systems, both internal and public. Whether it's crafting efficient software or exploring the great outdoors, I thrive on varied tasks that make a positive impact on my immediate surroundings and the wider world.
 
 ### What I Love ❤️
 
-- **Crafting Web Apps That Rock:** I believe in creating web applications that are not just functional but also innovative, intuitive, and capable of making a real impact.
-- **Innovating with Technology:** I'm always on the lookout for the latest technologies and techniques that can enhance the web development landscape.
-- **Teaching Music Technology:** Sharing my knowledge and passion for music technology is something I find incredibly rewarding.
-- **Exploring the Outdoors:** Whether it's climbing rocks or simply enjoying the beauty of nature, I love spending my time outdoors.
-- **Tinkering with Electronics:** There's something incredibly satisfying about diving into electronics and creating or improving devices with my own hands.
+- **Making Knowledge Accessible:** I strive to build tools and applications that empower users by providing easy access to information and resources.
+- **Tinkering with Systems:** Enhancing and optimising both internal workflows and public-facing systems is where I find my groove.
+- **Crafting Web and Native Apps:** From React and TypeScript to native development, I enjoy creating applications that are both functional and innovative.
+- **Exploring Complex Architectures:** I’m fascinated by intricate software architectures with many moving parts, offering endless opportunities to refine and improve.
+- **Making a Positive Impact:** Whether it's through technology or community engagement, I aim to contribute meaningfully to the environments I’m part of.
+- **Outdoor Adventures:** When I'm not coding, you'll likely find me climbing, running, or enjoying the beauty of nature.
 
 ### My Toolbox 🧰
 
-I use a variety of tools and technologies to bring my projects to life. Here's what you'll frequently find in my toolbox:
+I utilise a diverse range of tools and technologies to bring my projects to life:
 
-- **React:** For crafting responsive and dynamic user interfaces.
-- **GraphQL:** Making data querying more efficient and tailored.
-- **Prisma:** An ORM that simplifies database workflows.
-- **Astro:** Recently, I've been amazed by its capabilities in building faster web applications.
-- **PostgreSQL:** My go-to database for its robustness and reliability.
-- **RedwoodJS:** I adore this framework for its CLI and the full-stack magic it brings to my projects.
-- **WordPress & PHP:** Sometimes, I dive back into these for their flexibility and widespread use.
-- **Node.js:** For building scalable and efficient back-end services.
+- **TypeScript & JavaScript:** For building robust and scalable applications.
+- **React:** Creating dynamic and responsive user interfaces.
+- **Express & Fastify:** Developing efficient and reliable back-end services.
+- **GraphQL:** Streamlining data querying and manipulation.
+- **Astro:** Leveraging modern frameworks for faster web applications.
+- **Prisma (PostgreSQL):** Managing databases with ease and efficiency.
+- **Next.js:** Building server-rendered React applications with great performance.
+- **Maizzle:** Crafting responsive and visually appealing HTML emails.
+- **Amazon AWS S3:** Ensuring scalable and reliable storage solutions.
+- **Node.js:** Powering scalable back-end functionalities.
+- **REST APIs:** Developing public endpoints for seamless integrations.
 
 ### Why I Do What I Do 🌟
 
-I'm driven by the desire to build things that matter. I love tackling challenges that not only push my limits but also have a meaningful impact on people's lives. Through my work, I aim to make the digital world more accessible, intuitive, and beneficial for everyone.
+I'm driven by the desire to build systems that matter and make a real difference. I relish tackling challenges that push my technical boundaries and allow me to create solutions that benefit both my immediate environment and the broader community. By focusing on varied tasks and continuous improvement, I aim to foster innovation and efficiency in every project I undertake.
+
+### Career Goals 🚀
+
+I am committed to advancing into native development and mastering complex software architectures with numerous interconnected components. This path will enable me to further tinker, innovate, and develop efficient, scalable software solutions that can handle intricate challenges and provide significant value.
 
 ### Let's Connect! 🤝
 
-If you're interested in web development, music technology, or just want to chat about the latest in tech and outdoor adventures, feel free to reach out. I'm always open to connecting with like-minded individuals and exploring new collaborations.
+If you're interested in web and native development, passionate about making information accessible, or simply want to chat about tech and outdoor adventures, feel free to reach out. I'm always open to connecting with like-minded individuals and exploring new collaborations.
 
 - **📫 How to reach me:** [Email](mailto:martin@frommel.cz)
 - **🔗 LinkedIn:** [LinkedIn](https://linkedin.com/in/martin-frommel)
-- **🏄 Personal Website** [Personal Website](https://martin.frommel.cz)
+- **🌐 Personal Website:** [Personal Website](https://martin.frommel.cz)
 
-Let's create something amazing together. 🚀
+Let's create something amazing together! 🚀
