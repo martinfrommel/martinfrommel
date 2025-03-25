@@ -2,7 +2,7 @@
 
 ## Who am I? 🧑‍💻🛠️🌍
 
-Hello! I'm Martin, a passionate Full-Stack Web and Native Developer with a knack for scaling digital mountains and real ones too. I'm deeply motivated by making information and knowledge more accessible to people and love the chance to tinker with and improve systems, both internal and public. Whether it's crafting efficient software or exploring the great outdoors, I thrive on varied tasks that make a positive impact on my immediate surroundings and the wider world.
+Hello! I'm Martin, a passionate Full-Stack Engingeer and Systems Architect with a knack for scaling digital mountains (and real ones too). I'm deeply motivated by making information and knowledge more accessible to people and love the chance to tinker with and improve systems, both internal and public. Whether it's crafting efficient software or exploring the great outdoors, I thrive on varied tasks that make a positive impact on my immediate surroundings and the wider world.
 
 ### What I Love ❤️
 
@@ -12,22 +12,6 @@ Hello! I'm Martin, a passionate Full-Stack Web and Native Developer with a knack
 - **Exploring Complex Architectures:** I’m fascinated by intricate software architectures with many moving parts, offering endless opportunities to refine and improve.
 - **Making a Positive Impact:** Whether it's through technology or community engagement, I aim to contribute meaningfully to the environments I’m part of.
 - **Outdoor Adventures:** When I'm not coding, you'll likely find me climbing, running, or enjoying the beauty of nature.
-
-### My Toolbox 🧰
-
-I utilise a diverse range of tools and technologies to bring my projects to life:
-
-- **TypeScript & JavaScript:** For building robust and scalable applications.
-- **React:** Creating dynamic and responsive user interfaces.
-- **Express & Fastify:** Developing efficient and reliable back-end services.
-- **GraphQL:** Streamlining data querying and manipulation.
-- **Astro:** Leveraging modern frameworks for faster web applications.
-- **Prisma (PostgreSQL):** Managing databases with ease and efficiency.
-- **Next.js:** Building server-rendered React applications with great performance.
-- **Maizzle:** Crafting responsive and visually appealing HTML emails.
-- **Amazon AWS S3:** Ensuring scalable and reliable storage solutions.
-- **Node.js:** Powering scalable back-end functionalities.
-- **REST APIs:** Developing public endpoints for seamless integrations.
 
 ### Why I Do What I Do 🌟
 
@@ -43,6 +27,6 @@ If you're interested in web and native development, passionate about making info
 
 - **📫 How to reach me:** [Email](mailto:martin@frommel.cz)
 - **🔗 LinkedIn:** [LinkedIn](https://linkedin.com/in/martin-frommel)
-- **🌐 Personal Website:** [Personal Website](https://martin.frommel.cz)
+- **🌐 Personal Website:** [Website](https://martin.frommel.cz)
 
 Let's create something amazing together! 🚀
